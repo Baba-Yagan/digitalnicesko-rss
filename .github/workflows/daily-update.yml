@@ -30,7 +30,8 @@ jobs:
 
         TIMESTAMP=$(date +"%Y%m%d-%H%M%S")
 
-        git add aktuality.rss aktuality.html
+        rm -f aktuality.html
+        git add aktuality.rss
 
         if git diff --staged --quiet; then
           echo "No changes to RSS feed"
