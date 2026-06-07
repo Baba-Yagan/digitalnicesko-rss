@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:ns0="http://www.w3.org/2005/Atom" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>Digitální Česko 2.0 – Aktuality</title>
+    <link>https://digitalnicesko.gov.cz/aktuality</link>
+    <description>Aktuality z Digitálního Česka 2.0</description>
+    <language>cs</language>
+    <lastBuildDate>Sun, 07 Jun 2026 14:50:57 GMT</lastBuildDate>
+    <ns0:link href="https://digitalnicesko.gov.cz/aktuality/aktuality.rss" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Vláda představila strategické digitalizační projekty</title>
+      <link>https://digitalnicesko.gov.cz/aktuality/vlada-predstavila-strategicke-digitalizacni-projekty</link>
+      <guid isPermaLink="true">https://digitalnicesko.gov.cz/aktuality/vlada-predstavila-strategicke-digitalizacni-projekty</guid>
+      <description>Vláda navazuje na původní úspěšný projekt Digitálního Česka a zahajuje další etapu digitalizace...</description>
+      <pubDate>Sun, 24 May 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Nastaven systém řízení strategických digitálních programů a projektů</title>
+      <link>https://digitalnicesko.gov.cz/aktuality/nastaven-system-rizeni-strategickych-digitalnich-programu-a-projektu</link>
+      <guid isPermaLink="true">https://digitalnicesko.gov.cz/aktuality/nastaven-system-rizeni-strategickych-digitalnich-programu-a-projektu</guid>
+      <description>Zakládáme si na zodpovědnosti manažerů, reportingu a dobrém přehledu.</description>
+      <pubDate>Fri, 15 May 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Vláda schválila nový harmonogram digitalizace</title>
+      <link>https://digitalnicesko.gov.cz/aktuality/vlada-schvalila-novy-harmonogram-digitalizace</link>
+      <guid isPermaLink="true">https://digitalnicesko.gov.cz/aktuality/vlada-schvalila-novy-harmonogram-digitalizace</guid>
+      <description>Vláda schválila nový harmonogram digitalizace služeb, který akceleruje digitalizaci služeb v ČR.</description>
+      <pubDate>Tue, 12 May 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mění se koordinace RVIS a pracovních struktur</title>
+      <link>https://digitalnicesko.gov.cz/aktuality/meni-se-koordinace-rvis-a-pracovnich-struktur</link>
+      <guid isPermaLink="true">https://digitalnicesko.gov.cz/aktuality/meni-se-koordinace-rvis-a-pracovnich-struktur</guid>
+      <description>Podporujeme jednotnější a transparentnější rozhodování v oblasti digitální transformace veřejné správy.</description>
+      <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Posuzujeme společné znaky důležitých agend</title>
+      <link>https://digitalnicesko.gov.cz/aktuality/posuzujeme-spolecne-znaky-dulezitych-agend</link>
+      <guid isPermaLink="true">https://digitalnicesko.gov.cz/aktuality/posuzujeme-spolecne-znaky-dulezitych-agend</guid>
+      <description>Tato činnost pomáhá sladit právní rámec, zvyšuje připravenost institucí a uvolňuje jejich kapacity.</description>
+      <pubDate>Wed, 11 Mar 2026 00:00:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
