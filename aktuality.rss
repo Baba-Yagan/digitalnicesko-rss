@@ -5,8 +5,15 @@
     <link>https://digitalnicesko.gov.cz/aktuality</link>
     <description>Aktuality z Digitálního Česka 2.0</description>
     <language>cs</language>
-    <lastBuildDate>Wed, 24 Jun 2026 09:21:38 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 08:54:57 GMT</lastBuildDate>
     <ns0:link href="https://digitalnicesko.gov.cz/aktuality/aktuality.rss" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Digitalizace ve zdravotnictví zrychluje</title>
+      <link>https://digitalnicesko.gov.cz/aktuality/digitalizace-ve-zdravotnictvi-zrychluje</link>
+      <guid isPermaLink="true">https://digitalnicesko.gov.cz/aktuality/digitalizace-ve-zdravotnictvi-zrychluje</guid>
+      <description>Legislativní změny vedou k lepšímu sdílení zdravotnických dat i laboratorních vyšetření.</description>
+      <pubDate>Wed, 24 Jun 2026 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Vláda představila strategické digitalizační projekty</title>
       <link>https://digitalnicesko.gov.cz/aktuality/vlada-predstavila-strategicke-digitalizacni-projekty</link>
