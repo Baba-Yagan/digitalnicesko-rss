@@ -5,14 +5,28 @@
     <link>https://digitalnicesko.gov.cz/aktuality</link>
     <description>Aktuality z Digitálního Česka 2.0</description>
     <language>cs</language>
-    <lastBuildDate>Thu, 17 Sep 2026 10:52:25 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 10:27:37 GMT</lastBuildDate>
     <ns0:link href="https://digitalnicesko.gov.cz/aktuality/aktuality.rss" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Digitalizaci služeb veřejné správy stát dokončí v zákonném termínu 1. 2. 2027</title>
+      <link>https://digitalnicesko.gov.cz/aktuality/digitalizaci-sluzeb-verejne-spravy-stat-dokonci-v-zakonnem-terminu-1-2-2027</link>
+      <guid isPermaLink="true">https://digitalnicesko.gov.cz/aktuality/digitalizaci-sluzeb-verejne-spravy-stat-dokonci-v-zakonnem-terminu-1-2-2027</guid>
+      <description>U více jak 80 % služeb je zveřejněn elektronický formulář, na ostatních resorty spolupracují.</description>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Ministerstvo zdravotnictví spouští novou generaci EZKarty.</title>
       <link>https://digitalnicesko.gov.cz/aktuality/ministerstvo-zdravotnictvi-spousti-novou-generaci-ez-karty</link>
       <guid isPermaLink="true">https://digitalnicesko.gov.cz/aktuality/ministerstvo-zdravotnictvi-spousti-novou-generaci-ez-karty</guid>
       <description>Připomene preventivní vyšetření a zpřístupní důležité zdravotní informace.</description>
       <pubDate>Thu, 03 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Analýza veřejného testu eDokladů</title>
+      <link>https://digitalnicesko.gov.cz/aktuality/analyza-verejneho-testu-e-dokladu</link>
+      <guid isPermaLink="true">https://digitalnicesko.gov.cz/aktuality/analyza-verejneho-testu-e-dokladu</guid>
+      <description>Druhá vlna veřejného testu byla úspěšná, došlo k navýšení kapacity vstupní brány.</description>
+      <pubDate>Tue, 18 Aug 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>Digitalizace ve zdravotnictví zrychluje</title>
