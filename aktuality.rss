@@ -5,8 +5,15 @@
     <link>https://digitalnicesko.gov.cz/aktuality</link>
     <description>Aktuality z Digitálního Česka 2.0</description>
     <language>cs</language>
-    <lastBuildDate>Sun, 20 Sep 2026 10:31:33 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 11:51:12 GMT</lastBuildDate>
     <ns0:link href="https://digitalnicesko.gov.cz/aktuality/aktuality.rss" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Vláda posiluje řízení výdajů na ICT</title>
+      <link>https://digitalnicesko.gov.cz/aktuality/vlada-posiluje-rizeni-vydaju-na-ict</link>
+      <guid isPermaLink="true">https://digitalnicesko.gov.cz/aktuality/vlada-posiluje-rizeni-vydaju-na-ict</guid>
+      <description>Nová pravidla zefektivní digitalizaci státu a zvýší transparentnost zakázek</description>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Digitalizaci služeb veřejné správy stát dokončí v zákonném termínu 1. 2. 2027</title>
       <link>https://digitalnicesko.gov.cz/aktuality/digitalizaci-sluzeb-verejne-spravy-stat-dokonci-v-zakonnem-terminu-1-2-2027</link>
@@ -62,13 +69,6 @@
       <guid isPermaLink="true">https://digitalnicesko.gov.cz/aktuality/meni-se-koordinace-rvis-a-pracovnich-struktur</guid>
       <description>Podporujeme jednotnější a transparentnější rozhodování v oblasti digitální transformace veřejné správy.</description>
       <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Posuzujeme společné znaky důležitých agend</title>
-      <link>https://digitalnicesko.gov.cz/aktuality/posuzujeme-spolecne-znaky-dulezitych-agend</link>
-      <guid isPermaLink="true">https://digitalnicesko.gov.cz/aktuality/posuzujeme-spolecne-znaky-dulezitych-agend</guid>
-      <description>Tato činnost pomáhá sladit právní rámec, zvyšuje připravenost institucí a uvolňuje jejich kapacity.</description>
-      <pubDate>Wed, 11 Mar 2026 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
