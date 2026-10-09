@@ -5,8 +5,15 @@
     <link>https://digitalnicesko.gov.cz/aktuality</link>
     <description>Aktuality z Digitálního Česka 2.0</description>
     <language>cs</language>
-    <lastBuildDate>Thu, 08 Oct 2026 12:42:40 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 12:29:21 GMT</lastBuildDate>
     <ns0:link href="https://digitalnicesko.gov.cz/aktuality/aktuality.rss" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bezpečné eDoklady u voleb jsou společnou prioritou státu</title>
+      <link>https://digitalnicesko.gov.cz/aktuality/bezpecne-e-doklady-u-voleb-jsou-spolecnou-prioritou-statu</link>
+      <guid isPermaLink="true">https://digitalnicesko.gov.cz/aktuality/bezpecne-e-doklady-u-voleb-jsou-spolecnou-prioritou-statu</guid>
+      <description>DIA přijala konkrétní opatření pro ještě spolehlivější využití aplikace při volbách.</description>
+      <pubDate>Wed, 07 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Vláda posiluje řízení výdajů na ICT</title>
       <link>https://digitalnicesko.gov.cz/aktuality/vlada-posiluje-rizeni-vydaju-na-ict</link>
@@ -62,13 +69,6 @@
       <guid isPermaLink="true">https://digitalnicesko.gov.cz/aktuality/vlada-schvalila-novy-harmonogram-digitalizace</guid>
       <description>Vláda schválila nový harmonogram digitalizace služeb, který akceleruje digitalizaci služeb v ČR.</description>
       <pubDate>Tue, 12 May 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Mění se koordinace RVIS a pracovních struktur</title>
-      <link>https://digitalnicesko.gov.cz/aktuality/meni-se-koordinace-rvis-a-pracovnich-struktur</link>
-      <guid isPermaLink="true">https://digitalnicesko.gov.cz/aktuality/meni-se-koordinace-rvis-a-pracovnich-struktur</guid>
-      <description>Podporujeme jednotnější a transparentnější rozhodování v oblasti digitální transformace veřejné správy.</description>
-      <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
