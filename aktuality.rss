@@ -5,8 +5,15 @@
     <link>https://digitalnicesko.gov.cz/aktuality</link>
     <description>Aktuality z Digitálního Česka 2.0</description>
     <language>cs</language>
-    <lastBuildDate>Wed, 21 Oct 2026 11:03:42 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 11:02:56 GMT</lastBuildDate>
     <ns0:link href="https://digitalnicesko.gov.cz/aktuality/aktuality.rss" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Metodická podpora pro implementaci usnesení vlády č. 589/2026</title>
+      <link>https://digitalnicesko.gov.cz/aktuality/metodicka-podpora-pro-implementaci-usneseni-vlady-c-589-2026</link>
+      <guid isPermaLink="true">https://digitalnicesko.gov.cz/aktuality/metodicka-podpora-pro-implementaci-usneseni-vlady-c-589-2026</guid>
+      <description>Jednotná pravidla pro efektivnější řízení ICT investic, koordinaci digitalizace a transparentnost.</description>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>eDoklady u voleb obstály</title>
       <link>https://digitalnicesko.gov.cz/aktuality/e-doklady-u-voleb-obstaly</link>
@@ -62,13 +69,6 @@
       <guid isPermaLink="true">https://digitalnicesko.gov.cz/aktuality/vlada-predstavila-strategicke-digitalizacni-projekty</guid>
       <description>Vláda navazuje na původní úspěšný projekt Digitálního Česka a zahajuje další etapu digitalizace...</description>
       <pubDate>Sun, 24 May 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Nastaven systém řízení strategických digitálních programů a projektů</title>
-      <link>https://digitalnicesko.gov.cz/aktuality/nastaven-system-rizeni-strategickych-digitalnich-programu-a-projektu</link>
-      <guid isPermaLink="true">https://digitalnicesko.gov.cz/aktuality/nastaven-system-rizeni-strategickych-digitalnich-programu-a-projektu</guid>
-      <description>Zakládáme si na zodpovědnosti manažerů, reportingu a dobrém přehledu.</description>
-      <pubDate>Fri, 15 May 2026 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
