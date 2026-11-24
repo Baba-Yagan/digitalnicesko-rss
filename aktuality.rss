@@ -5,8 +5,15 @@
     <link>https://digitalnicesko.gov.cz/aktuality</link>
     <description>Aktuality z Digitálního Česka 2.0</description>
     <language>cs</language>
-    <lastBuildDate>Mon, 23 Nov 2026 17:13:26 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 16:53:55 GMT</lastBuildDate>
     <ns0:link href="https://digitalnicesko.gov.cz/aktuality/aktuality.rss" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Stát vybral dodavatele evropské peněženky digitální identity, kterou se Češi prokážou v celé EU.</title>
+      <link>https://digitalnicesko.gov.cz/aktuality/stat-vybral-dodavatele-evropske-penezenky-digitalni-identity-kterou-se-cesi-prokazou-v-cele-eu</link>
+      <guid isPermaLink="true">https://digitalnicesko.gov.cz/aktuality/stat-vybral-dodavatele-evropske-penezenky-digitalni-identity-kterou-se-cesi-prokazou-v-cele-eu</guid>
+      <description>Konsorcium vedené českou firmou Wultra vyvine aplikaci s názvem Valetka, kterou se Češi prokážou v celé EU.</description>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Metodická podpora pro implementaci usnesení vlády č. 589/2026</title>
       <link>https://digitalnicesko.gov.cz/aktuality/metodicka-podpora-pro-implementaci-usneseni-vlady-c-589-2026</link>
@@ -62,13 +69,6 @@
       <guid isPermaLink="true">https://digitalnicesko.gov.cz/aktuality/digitalizace-ve-zdravotnictvi-zrychluje</guid>
       <description>Legislativní změny vedou k lepšímu sdílení zdravotnických dat i laboratorních vyšetření.</description>
       <pubDate>Wed, 24 Jun 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Vláda představila strategické digitalizační projekty</title>
-      <link>https://digitalnicesko.gov.cz/aktuality/vlada-predstavila-strategicke-digitalizacni-projekty</link>
-      <guid isPermaLink="true">https://digitalnicesko.gov.cz/aktuality/vlada-predstavila-strategicke-digitalizacni-projekty</guid>
-      <description>Vláda navazuje na původní úspěšný projekt Digitálního Česka a zahajuje další etapu digitalizace...</description>
-      <pubDate>Sun, 24 May 2026 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
